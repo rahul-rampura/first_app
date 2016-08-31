@@ -1,7 +1,7 @@
 
 #Ruby on Rails Tutorial : First Application
 
-This is my first web app using he Ruby on Rails Tutorial 
+This is my first web app using the Ruby on Rails Tutorial 
 * Ruby version --> 2.0.0
 
 * System dependencies --> rails 4.0.8
